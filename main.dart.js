@@ -57286,7 +57286,7 @@ A.kx.prototype={}
 A.n3.prototype={
 ak(){return new A.Gy()}}
 A.Gy.prototype={
-a_(a){var s=null,r=A.cG(a,s,t.w).w.a.gfh(),q=A.NC(new A.r3(A.al5(s,s,new A.pu("images/cover.jpg",s,s)),B.uD,s),s,s,1/0,s,s,s,1/0),p=A.br(B.c.ah(178.5),B.m.K()>>>16&255,B.m.K()>>>8&255,B.m.K()&255),o=t.eE
+a_(a){var s=null,r=A.cG(a,s,t.w).w.a.gfh(),q=A.NC(new A.r3(A.al5(s,s,new A.pu("assets/images/cover.jpg",s,s)),B.uD,s),s,s,1/0,s,s,s,1/0),p=A.br(B.c.ah(178.5),B.m.K()>>>16&255,B.m.K()>>>8&255,B.m.K()&255),o=t.eE
 return A.abn(B.a1,A.Zp(B.eg,A.c([q,A.ahp(A.NC(new A.nr(B.xC,A.a96(A.c([A.abN("Nithinbabu Ravichandran",A.nY(s,s,B.j,s,s,s,s,s,s,s,s,r<=600?25:50,s,s,B.dl,s,s,!0,s,s,s,s,s,s,s,s)),A.abN("Flutter developer",A.nY(s,s,A.ay(4026124044),s,s,s,s,s,s,s,s,25,s,s,B.dl,s,s,!0,s,s,s,s,s,s,s,s))],o),B.bs,B.nV),s),p,s,s,s,s,s,1/0),s,s)],o),B.h2))}}
 A.b7.prototype={
 c_(a){var s=a.a,r=this.a,q=s[15]
